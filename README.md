@@ -1,4 +1,4 @@
-# RoboKab the althcare Assistant Robot 
+# RoboKab - Healthcare Assistant Robot 
 
 A ROS-based healthcare assistant robot system that autonomously navigates through a hospital environment to check on patients, verify medication compliance, and report back to doctors.
 
