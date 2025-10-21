@@ -262,6 +262,7 @@ This project is developed for educational purposes as part of a robotics coursew
 ## Author
 
 **Kabir Suri** (k21082509@kcl.ac.uk)
+Email no longer in use ^  
 King's College London
 
 ---
